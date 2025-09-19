@@ -43,3 +43,15 @@ The program demonstrates file handling, user input validation, data filtering, a
 ```bash
 python PictureDatabase.py
 ```
+4. Enter the frame color, maximum width, and maximum height when prompted.
+5. Check the console for matching results and the NewPictureData.txt file for saved data.
+
+## Example Usage
+
+```plaintext
+Enter colour: black
+Enter maximum width: 50
+Enter maximum height: 60
+The picture that matches our requirement has the description: Flowers, it has the width: 45, the height: 50 and the colour: black
+Congratulations! File has been created with the above data!
+```
